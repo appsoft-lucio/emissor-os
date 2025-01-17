@@ -1,0 +1,13 @@
+# Emissor de OS
+
+## Como usar
+
+1. Clique no ícone "Emissor de OS" para abrir o programa.
+2. Preencha os dados do trabalhador e do cliente.
+3. Clique em "Gerar OS" para criar um PDF.
+4. O PDF será salvo na pasta `dist` automaticamente.
+
+## Requisitos
+
+- Windows 10 ou superior.
+- Programa configurado com o ícone na área de trabalho.
